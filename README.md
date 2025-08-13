@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I’m Unaiza Ahmed 👋
 
-<!--
-**unaizaahmedk/unaizaahmedk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Final-Year AI Student @ FAST NUCES Karachi**  
+🚀 **Aspiring AI/ML Engineer | Certified AI Engineer (AtomCamp × NUST) | Advocate for Women’s Financial Literacy & Health Equity**  
+💡 **Building intelligent, inclusive solutions at the intersection of technology, finance, and women’s wellbeing**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+**Languages & Frameworks:** Python, SQL, TensorFlow, Keras, Scikit-learn  
+**Domains:** Machine Learning, Deep Learning, Reinforcement Learning, NLP, LLMs, Computer Vision, Robotics & Control Systems, Retrieval-Augmented Generation (RAG)
+**Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Data Analysis  
+**Special Interests:** Women’s Financial Literacy, Personal Wellbeing  
+
+---
+
+## 💡 Fun Fact
+When I’m not coding, I explore **finance, personal growth, and wellness practices**, finding ways to live in tune with my energy and body rhythms. I enjoy **reading, journaling, and experimenting with mindful routines**. 
+
+---
+
+## 📫 Contact
+[💼 LinkedIn](https://www.linkedin.com/in/unaiza-a-35b6b1334/)  
+📧 **Email:** unaizaahmed.k@gmail.com  
