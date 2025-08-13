@@ -8,7 +8,7 @@
 
 ## 🛠️ Skills
 **Languages & Frameworks:** Python, SQL, TensorFlow, Keras, Scikit-learn  
-**Domains:** Machine Learning, Deep Learning, Reinforcement Learning, NLP, LLMs, Computer Vision, Robotics & Control Systems, Retrieval-Augmented Generation (RAG)
+**Domains:** Machine Learning, Deep Learning, Reinforcement Learning, NLP, LLMs, Computer Vision, Robotics & Control Systems, Retrieval-Augmented Generation (RAG)   
 **Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Data Analysis  
 **Special Interests:** Women’s Financial Literacy, Personal Wellbeing  
 
@@ -20,5 +20,5 @@ When I’m not coding, I explore **finance, personal growth, and wellness practi
 ---
 
 ## 📫 Contact
-[💼 LinkedIn](https://www.linkedin.com/in/unaiza-a-35b6b1334/)  
+💼 [LinkedIn](https://www.linkedin.com/in/unaiza-a-35b6b1334/)  
 📧 **Email:** unaizaahmed.k@gmail.com  
